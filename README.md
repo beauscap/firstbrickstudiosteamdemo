@@ -39,7 +39,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Demo Business Site</p>
+    <p>© 2025 firstbrickstudios</p>
   </footer>
 </body>
 </html>
